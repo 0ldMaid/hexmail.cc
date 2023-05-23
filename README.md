@@ -1,4 +1,4 @@
-
+<title>1234</title>
 
 <h2 style="text-align: center;">HEXMAIL.CC PRIVACY POLICY</h2> 
 <p></p> 
