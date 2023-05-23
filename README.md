@@ -2,7 +2,7 @@
 
 <h2 style="text-align: center;">HEXMAIL.CC PRIVACY POLICY</h2> 
 <p></p> 
-<p>This privacy policy governs your use of the software application HEXMAIL.CC (“Application”) for mobile devices that was created by 0ldMiad. HEXMAIL.CC is a decentralized bulletin board of products or posts. The program, like Bitcoin, runs on each user's mobile phone so there is no central server. The tokens only exist because of the other users on the system. You can view anyone’s tokens but can only edit the ones you own. The system is kind of like Craigslist but built as a blockchain system. There are a total of 25,000 tokens on the system for people to use. That number cannot be changed unless the users of the system choose to update the protocol.</p> 
+<p>This privacy policy governs your use of the software application HEXMAIL.CC (“Application”) for mobile devices that was created by 0ldMiad. HEXMAIL.CC is an email application like Gmail or Hotmail but with additional features. The first feature is spam protection. In a normal email application you create an email address that everyone uses to send you email. Eventually that address is compromised and given to hackers and scammers. Then your inbox is flooded with spam. Hexmail.cc fixes this by allowing each contact to use a different email address. You create a new email address for each one of your contacts so that if one is added to a spam list you can just delete that address.  </p> 
 
 <p>The Application only provides the operating system for the network, we have no control over what is submitted. All user data and information is their own responsibility and does not reflect the beliefs or intentions of the developers.</p>
 
