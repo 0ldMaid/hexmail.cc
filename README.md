@@ -1,6 +1,4 @@
-# hexmail.cc
-## 1234
-### 33333
+
 
 <h2 style="text-align: center;">HEXMAIL.CC PRIVACY POLICY</h2> 
 <p></p> 
