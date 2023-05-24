@@ -33,4 +33,4 @@
 <p>This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. We do not have access to your email or contact details so it will be up to you to check for updates. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.</p> 
 
 <h4><strong>Contact us</strong></h4> 
-<p>If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at kryptontokens@protonmail.com</p>
+<p>If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at info@hexmail.cc</p>
