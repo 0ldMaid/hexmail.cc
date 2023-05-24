@@ -1,6 +1,6 @@
 <h2 style="text-align: center;">HEXMAIL.CC PRIVACY POLICY</h2> 
 <p></p> 
-<p>This privacy policy governs your use of the software application HEXMAIL.CC (“Application”) for mobile devices that was created by 0ldMiad. HEXMAIL.CC is an email application like Gmail or Hotmail but with additional features. The first feature is spam protection. In a normal email application you create an email address that everyone uses to send you email. Eventually that address is compromised and given to hackers and scammers. Then your inbox is flooded with spam. Hexmail.cc fixes this by allowing each contact to use a different email address. You create a new email address for each one of your contacts so that if one is added to a spam list you can just delete that address.  </p> 
+<p>This privacy policy governs your use of the software application HEXMAIL.CC (“Application”) for mobile devices that was created by 0ldMiad. HEXMAIL.CC is an email application like Gmail or Hotmail but with additional features. The first feature is spam protection. In a normal email application you create an email address that everyone uses to send you email. Eventually that address is compromised and given to hackers and scammers. Then your inbox is flooded with spam. Hexmail.cc fixes this by allowing each contact to use a different email address. You create a new email address for each one of your contacts so that if one is added to a spam list you can just delete that address.</p> 
 
 <p>The Application only provides the operating system for the network, we have no control over what is submitted. All user data and information is their own responsibility and does not reflect the beliefs or intentions of the developers.</p>
 
@@ -34,5 +34,5 @@
 <h4><strong>Changes</strong></h4> 
 <p>This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. We do not have access to your email or contact details so it will be up to you to check for updates. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.</p> 
 
-<h4>Contact us</h4> 
+<h4><strong>Contact us</strong></h4> 
 <p>If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at kryptontokens@protonmail.com</p>
