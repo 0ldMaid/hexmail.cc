@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">HEXMAIL.CC PRIVACY POLICY</h2> 
+<h2 style="text-align: center;">PRIVACY POLICY</h2> 
 <p></p> 
 <p>This privacy policy governs your use of the software application HEXMAIL.CC (“Application”) for mobile devices that was created by 0ldMiad. HEXMAIL.CC is an email application like Gmail or Hotmail but with additional features. The first feature is spam protection. In a normal email application you create an email address that everyone uses to send you email. Eventually that address is compromised and given to hackers and scammers. Then your inbox is flooded with spam. Hexmail.cc fixes this by allowing each contact to use a different email address. You create a new email address for each one of your contacts so that if one is added to a spam list you can just delete that address.</p> 
 
